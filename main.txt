@@ -1,2 +1,3 @@
+hi there
 this is nano editor.
-adding information to this file. 
+adding information to this file. have a good time.

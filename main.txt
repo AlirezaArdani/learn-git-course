@@ -1,5 +1,5 @@
 hey new file.
-wow new code.
+wow! new code.
 line 1 
 line 2
-line 5 eidted
+line 5 edited! commit from pycharm ide boys.

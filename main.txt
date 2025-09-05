@@ -6,7 +6,7 @@ line 5 edited and bug fixed!!
 line 7
 line 8
 line 9
-line 10 
+line 10 changes from feature-5.
 line 11
 lein 12
 line 13
